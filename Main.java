@@ -7,6 +7,8 @@ public class Main{
         System.out.println(new Date());
         System.out.println("This is java program jenkins made by srijani");
         System.out.println("Added one for file");
+        Student student=new Student();
+        student.sayHello();
         
     }
 }
